@@ -83,9 +83,9 @@ making systematic stability analysis of this scale routinely
 accessible for the first time.
 
 ## Contact
-We welcome questions, feedback, and potential collaboration opportunities—feel free to reach out!
-## Contact
-**Saulo Orizaga** — saulo.orizaga@nmt.edu
-Associte Professor of Mathematics  
-New Mexico Institute of Mining and Technology  
-Socorro, NM 87801, USA
+We welcome questions, feedback, and potential collaboration opportunities—feel free to reach out! <br>
+
+**Saulo Orizaga** — saulo.orizaga@nmt.edu  <br>
+Associate Professor of Mathematics          <br>
+New Mexico Institute of Mining and Technology  <br>
+Socorro, NM 87801, USA.
