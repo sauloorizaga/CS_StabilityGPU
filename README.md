@@ -1,4 +1,4 @@
-# CS_StabilityGPU
+# CS_StabilityGPU 
 Sharp Stability Boundary for the Convex Splitting Scheme 
 in the Cahn-Hilliard Equation via Energy Separatrix Analysis
 
