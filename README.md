@@ -63,7 +63,7 @@ run CH_3D_AML.m
 
 ## Citation
 If you use this code, please cite:
-Orizaga, S. (2025).
+Orizaga, S. (2026).
 "Sharp Stability Boundary for the Convex Splitting Scheme 
 in the Cahn-Hilliard Equation via Energy Separatrix Analysis"
 Applied Mathematics Letters (submitted).
