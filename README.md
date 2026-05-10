@@ -52,7 +52,7 @@ $a=0.05$, **40× smaller** than classical $a>2$):
 ```matlab
 % Stability map: 40,000 simultaneous simulations
 % Parameters: a in [0,1], dt in [0.01,5], N=64, eps=0.1
-run CH_stability_map.m
+run ch_cs_stability_map.m
 
 % 2D benchmark: a=0.05, dt=0.01, eps=0.1, N=256
 run CH_2D_AML.m
