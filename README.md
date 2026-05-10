@@ -37,6 +37,17 @@ Running **CH_2D_AML.m** will generate the 2D benchmark:
 
 
 
+## Output
+Running **CH_3D_AML.m** followed by visualization will generate 
+the 3D benchmark ($N=128^3$, $\approx 2$ million grid points, 
+$a=0.05$, **40× smaller** than classical $a>2$):
+
+<img src="CH3D_iso_t1.png" width=400px height=400px> <img src="CH3D_box_t1.png" width=400px height=400px>
+
+<img src="CH3D_iso_t50.png" width=400px height=400px> <img src="CH3D_box_t50.png" width=400px height=400px>
+
+
+
 ## Usage
 ```matlab
 % Stability map: 40,000 simultaneous simulations
