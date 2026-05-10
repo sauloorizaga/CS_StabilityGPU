@@ -26,7 +26,7 @@ Running **CH_stability_map.m** will generate the stability map:
 <img src="CH_40000R2.png" width=500px height=400px>
 
 ## Output
-Running **ch_cs_parallel.m** will generate the parallel simulation plot:
+Running **CH_20.m** will generate the parallel simulation plot:
 
 <img src="ch_cs_parallel.png" width=500px height=400px>
 
