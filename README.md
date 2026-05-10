@@ -19,6 +19,24 @@ with zero free parameters.
 - `CH_2D_AML.m` — 2D benchmark simulation
 - `CH_3D_AML.m` — 3D benchmark simulation
 
+
+## Output
+Running **CH_stability_map.m** will generate the stability map:
+
+<img src="CH_40000R2.png" width=500px height=400px>
+
+## Output
+Running **ch_cs_parallel.m** will generate the parallel simulation plot:
+
+<img src="ch_cs_parallel.png" width=500px height=400px>
+
+## Output
+Running **CH_2D_AML.m** will generate the 2D benchmark:
+
+<img src="CH2DAML.png" width=500px height=400px>
+
+
+
 ## Usage
 ```matlab
 % Stability map: 40,000 simultaneous simulations
