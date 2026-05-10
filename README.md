@@ -82,8 +82,6 @@ GPU parallelism, the full 200×200 parameter sweep completes in
 making systematic stability analysis of this scale routinely 
 accessible for the first time.
 
-
-
 ## Contact
 We welcome questions, feedback, and potential collaboration opportunities—feel free to reach out!
 ## Contact
