@@ -15,6 +15,7 @@ with zero free parameters.
 - NVIDIA GPU (any CUDA-capable GPU)
 
 ## Contents
+- `CH_20.m` — Runs 20 CS simulations on GPU
 - `ch_cs_stability_map.m` — 40,000 GPU parallel CS simulations
 - `CH_2D_AML.m` — 2D benchmark simulation
 - `CH_3D_AML.m` — 3D benchmark simulation
