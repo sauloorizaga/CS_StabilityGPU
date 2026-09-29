@@ -1,4 +1,4 @@
-% ch_cs_stability_map.m
+%%  ch_cs_stability_map.m
 % =========================================================
 % CH Convex Splitting STABILITY MAP
 % Sweeps over (a, dt) parameter space
