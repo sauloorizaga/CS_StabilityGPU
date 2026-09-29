@@ -1,4 +1,4 @@
-%% 2D Cahn-Hilliard CS Scheme - AML Paper Simulation
+%% 2D Cahn-Hilliard CS Scheme - AMC Paper Simulation
 %  Parameters chosen from analytical neutral curve (eq. 8)
 %  a = 0.05, dt = 0.01, eps = 0.1 -> a_neutral(0.01) ~ 0.038
 clc; clear all; close all;
