@@ -55,7 +55,7 @@ Running `ch_cs_stability_map_JOCS.m` generates the stability map (N = 64 left, N
 
 Running `CH_20.m` generates the 20 simultaneous simulations:
 
-<img src="ch_cs_parallel.png" width=500px>
+<img src="ch_cs_parallel_timing.png" width=500px>
 
 Running `CH_2D_JOCS.m` generates the 2D validation run:
 
