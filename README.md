@@ -59,7 +59,7 @@ Running `CH_20runs_JOCS.m` generates the 20 simultaneous simulations:
 
 Running `CH_2D_JOCS.m` generates the 2D validation run:
 
-<img src="CH2DAML.png" width=500px>
+<img src="CH2DAML_R.png" width=500px>
 
 Running `CH_3D_JOCS.m` generates the 3D validation run (N = 256^3, a = 0.05):
 
