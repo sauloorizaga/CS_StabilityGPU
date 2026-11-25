@@ -3,7 +3,7 @@
 % CH Convex Splitting parallel GPU sweep
 % Runs M simulations simultaneously, each with different a
 %
-% Domain: [0, 2pi] x [0, 2pi], N=64
+% Domain: [0, 2pi] x [0, 2pi], N=256
 % =========================================================
 
 clear all;
