@@ -18,7 +18,7 @@ boundary is compared with the sufficient condition a ≥ 1 − ε√(2/Δt).
 
 ## Contents
 - `ch_cs_stability_map_JOCS.m` — Stability map: 40,000 simultaneous CS simulations on the GPU, stepwise energy classifier, energy routine, mass and amplitude diagnostics
-- `CH_20.m` — 20 simultaneous CS simulations with a in [1, 2] (N = 256)
+- `CH_20runs_JOCS.m` — 20 simultaneous CS simulations with a in [1, 2] (N = 256)
 - `CH_2D_JOCS.m` — 2D validation run with energy, max|U|, stepwise energy change, and mass drift
 - `CH_3D_JOCS.m` — 3D validation run (N = 256^3) with the same diagnostics
 - `CH_2D_JOCS_Errors.m` — Accuracy study: error versus Δt for several values of a, verified reference, energy-identity residual
@@ -36,7 +36,7 @@ subset with seeds 1, 2, 3, and 42. The accuracy study uses `rng(42)`.
 run ch_cs_stability_map_JOCS.m
 
 % 20 simultaneous simulations: a in [1, 2], dt = 0.01, N = 256
-run CH_20.m
+run CH_20runs_JOCS.m
 
 % 2D validation: a = 0.05, dt = 0.01 (or a = 0.7, dt = 0.5), eps = 0.1, N = 256
 run CH_2D_JOCS.m
