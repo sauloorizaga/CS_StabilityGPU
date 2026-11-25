@@ -1,4 +1,4 @@
-%% 3D Cahn-Hilliard CS Scheme - AML Paper
+%% 3D Cahn-Hilliard CS Scheme - JOCS Paper
 %  Parameters from analytical neutral curve (eq. 8):
 %  a = 0.05, dt = 0.01, eps = 0.1
 clc; clear all; close all;
