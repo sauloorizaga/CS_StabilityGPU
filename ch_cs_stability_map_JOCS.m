@@ -17,24 +17,23 @@ clear all;
 
 %% ---------------- Settings ----------------
 mode   = 'fixedsteps';  % 'fixedsteps' or 'commonT'
-N      = 64;            % grid size (paper map: 64; sensitivity: 128, 256)
-eps    = 0.05;           % paper: 0.1; sensitivity: 0.05
+N      = 128;            % grid size (paper map: 64; sensitivity: 128, 256)
+eps    = 0.1;           % paper: 0.1; sensitivity: 0.05
 Tsteps = 1000;          % steps per run      (mode = 'fixedsteps')
 T      = 20;            % common final time  (mode = 'commonT')
-seed   = 41;            % sensitivity: repeat with several seeds
+seed   = 42;            % sensitivity: repeat with several seeds
 m      = 0;             % mean composition (paper map: 0; check: 0.25)
 tolRel = 1e-12;         % relative tolerance in the stepwise energy test
 
 % Sensitivity subset near the boundary
-%na  = 200;  ndt = 200;
-na  = 41;  ndt = 6;
-a_values  = linspace(0.6, 1.0, na);
-dt_values = [0.05 0.1 0.5 1 2 5];
+%na  = 41;  ndt = 6;
+%a_values  = linspace(0.6, 1.0, na);
+%dt_values = [0.05 0.1 0.5 1 2 5];
 
 % Full paper map: use instead
-% na = 200; ndt = 200;
-% a_values  = linspace(0, 2, na);
-% dt_values = linspace(0.01, 5, ndt);
+na = 200; ndt = 200;
+a_values  = linspace(0, 2, na);
+dt_values = linspace(0.01, 5, ndt);
 
 M = na*ndt;
 fprintf('\n==============================================\n');
